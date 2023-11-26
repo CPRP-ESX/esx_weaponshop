@@ -9,8 +9,8 @@ Config.Locale        = GetConvar('esx:locale', 'en')
 Config.MenuPosition  = "right"
 Config.OxInventory   = ESX.GetConfig().OxInventory
 
-Config.LicenseEnable = false -- only turn this on if you are using esx_license
-Config.LicensePrice  = 5000
+Config.LicenseEnable = true -- only turn this on if you are using esx_license
+Config.LicensePrice  = 2000
 
 Config.Zones = {
 
